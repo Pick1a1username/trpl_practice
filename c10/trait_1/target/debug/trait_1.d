@@ -1,0 +1,1 @@
+/home/empty0x7/src/github/trpl_practice/c10/trait_1/target/debug/trait_1: /home/empty0x7/src/github/trpl_practice/c10/trait_1/src/lib.rs /home/empty0x7/src/github/trpl_practice/c10/trait_1/src/main.rs
