@@ -1,1 +1,0 @@
-/home/empty0x7/src/github/trpl_practice/c12/minigrep/target/debug/minigrep-d5e0e6bd32b42741: /home/empty0x7/src/github/trpl_practice/c12/minigrep/src/lib.rs /home/empty0x7/src/github/trpl_practice/c12/minigrep/src/main.rs
