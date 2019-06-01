@@ -13,7 +13,7 @@ fn main() {
 
     let mut count: u16 = 0;
 
-    for stream in listener.incoming() {
+    for stream in listener.incoming().take(2) {
         count = count + 1;
         println!("{}", count);
 
